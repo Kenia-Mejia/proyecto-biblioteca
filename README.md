@@ -1,4 +1,4 @@
-## El archivo proyecto2.sql importar desde PHPMyAdmin
+## El archivo proyecto2.sql importar desde phpMyAdmin
 
 ## Página web para administrar una lista de libros, crea una interfaz de usuario para administrar una lista de libros, permitiendo a los usuarios buscar, ver, editar y eliminar entradas de libros.
 
